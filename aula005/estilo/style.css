@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+*{
+
+margin: 0px;
+padding: 0px;
+
+
+}
+
+body{
+
+    font-size:  1.4em;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+        
+    }
+
+    h1{
+
+margin-bottom: 20px;
+color: blue;
+font-weight: bolder;
+
+
+
+    }
+    
+    input {
+    
+    color: violet;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    width:  100px;
+    border-radius: 15px;
+    padding: 5px;
+    
+    }
+    div#res{
+    
+    margin-top:  30px;
+    padding: 10px;
+    color: blueviolet;
+    
+    }
