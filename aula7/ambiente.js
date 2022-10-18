@@ -1,10 +1,10 @@
-var c = 1
+var d = 1
 
 do {
-console.log (`Passo ${c}`)
-c++
+console.log (`Passo ${d}`)
+d++
 
-}while (c <= 6)
+}while (d <= 8)
 
 
 
