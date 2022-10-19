@@ -12,7 +12,7 @@ padding: 0px;
 
 body {
 
-background-image:  linear-gradient(to right, rgb(145, 145, 236), violet);
+background-image:  linear-gradient(to right, rgb(145, 145, 236), rgb(168, 57, 168));
 background-size: cover;
 overflow-y: hidden;
 
