@@ -1,5 +1,5 @@
 let num  = [2,100,22,22,44,55]
-num [3] = 500
+num [3] = 100
 num.sort()
 console.log (num)
 console.log (`o vetor tem ${num.length} posiçoes`)
