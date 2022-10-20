@@ -81,7 +81,7 @@ if(idade >=0 && idade <10) {
 
 }
 
-res.innerHTML = `Detectamos ${genero} com ${idade} anos.`
+res.innerHTML = `Detectamos: ${genero} com ${idade} Anos.`
 res.appendChild(img)
 
 

@@ -7,7 +7,8 @@ var img = window.document.getElementById ('imagem')
 var data = new Date()
 var hora = data.getHours()
 var min = data.getMinutes()
-msg.innerHTML = `  <strong> Agora são </strong> ${hora}:${min} Horas`
+var mes = data.getFullYear()
+msg.innerHTML = `  <strong> Agora são </strong> ${hora}:${min} Horas do Ano ${mes} `
 if (hora >= 0 && hora <12 ) {
 
     //Bom dia
