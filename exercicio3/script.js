@@ -11,7 +11,7 @@ window.alert (' [ERRO] Faltam alguns dados!')
 
 } else {
 
-    res.innerHTML = 'Contando: '
+    res.innerHTML = 'Contando: <br> '
     let i = Number(ini.value)
     let f = Number(fim.value)
     let p = Number(passo.value)
