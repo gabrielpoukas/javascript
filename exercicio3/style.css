@@ -65,17 +65,20 @@ body {
     div{
     
     
-    text-align: left;
+    text-align: center;
     padding: 7px;
+    font-size: 1.1em;
     
     }
     
     #botao{
     
-    border-radius: 10px;
+    border-radius: 12px;
     color: rgb(5, 2, 5);
     padding: 10px;
     margin: 15px;
+    width: 110px;
+    font-weight: bolder;
     
     }
     
@@ -135,13 +138,19 @@ background: url('./calculadora.jpg');
 background-repeat: no-repeat;
 background-size: cover;
 
+    }
+
+    div#dados {
 
 
+text-align: center;
 
-        }
-    
+
+    }
+
+ 
     
         
-    }
+}
     
     
